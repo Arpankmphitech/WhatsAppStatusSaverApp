@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WhatsAppStatusSaverApp</string>
+    <string name="video_player">Video Player</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
